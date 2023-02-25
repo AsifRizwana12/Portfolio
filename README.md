@@ -2,14 +2,13 @@
 My Portfolio Website : https://resplendent-dasik-6a52eb.netlify.app
 
 This is a Reactjs project bootstrapped with create-react-app.
-
-Getting Started
+# Getting Started
 First, run the development server:
 
 npm run 
-# or
+ or
 yarn start
-# or
+ or
 pnpm start
 Open http://localhost:3000 with your browser to see the result.
 
